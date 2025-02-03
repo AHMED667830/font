@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('https://raw.githubusercontent.com/AHMED667830/custom-fonts/main/TheYearofTheCamel-ExtraBold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'MyCustomFont', sans-serif;
+}
